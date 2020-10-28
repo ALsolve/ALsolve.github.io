@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Some project
-description: Description of project
-summary: Summary of project
-category: Project category
+title: 알고리즘 팀 블로그 개발
+category: dev Team Blog
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+DSC에서 팀 블로그를 첫 개발하고 관심이 생겨 해당 블로그 까지 개발하게 됨.
+
+알고리즘 팀원들이 발표 자료를 만들어오는데, 낭비되는 것이 아깝다고 생각함.
