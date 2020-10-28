@@ -1,10 +1,7 @@
-site: Ultra
+site: AL study
 url: https://example.com
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
-twitter:
-  username: yourusername
-  card: summary
+title: AL study team blog
+description: 알고리즘 스터디팀 블로그입니다.
 
 permalink: pretty
 
@@ -22,9 +19,7 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-gist
   - jekyll-seo-tag
-  - jekyll-sitemap  
 
 collections:
   pages:

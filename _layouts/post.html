@@ -3,7 +3,8 @@ layout: default
 ---
 
 <article role="article">
-  <h1>{{ page.title }}</h1>
+  <h1 style="margin-bottom: 0;">{{ page.title }}</h1>
+  <div class="author-box"><img class="author" src="https://github.com/{{page.author}}.png"><span>{{page.author}}</span></div>
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
   {{ content }}
 </article>

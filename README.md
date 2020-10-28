@@ -1,20 +1,14 @@
-# Ultra - Super fast Jekyll theme
+# 블로그 포스트 작성하기
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+`_posts` 폴더에 포스트를 마크다운 형식으로 작성해주세요
 
-### Key features
+파일 이름은 YYYY-MM-DD-제목.md로 해야합니다.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+포스트 상단의 속성을 설정해주세요.
 
-![Screenshot](ultra.png)
+`title: 포스트 제목`
+`author: 작성자명`
 
-# Demo [here](https://ultra-jekyll.netlify.com/)
+PR을 작성해주세요!
+
+***이 레포지토리의 master 브랜치로 Pull Request를 날려주세요!***

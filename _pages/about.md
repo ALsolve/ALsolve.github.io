@@ -3,19 +3,8 @@ layout: page
 title: About
 ---
 
-## Ultra - Super fast Jekyll theme 
+## 알고리즘 스터디 팀 소개
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+### 김수빈
 
-### Key features
-
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+![Subin](../assets/mobumin.jpg)

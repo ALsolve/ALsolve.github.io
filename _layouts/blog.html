@@ -5,11 +5,12 @@ title: Notes
 
 {% for post in site.posts %}
 <article role="article">
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">
+  <h2 style="margin-bottom: 0;"><a href="{{ site.baseurl }}{{ post.url }}">
     {{ post.title }}
   </a></h2>
-  <p>{{ post.summary }}</p>
-    <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+  <div class="author-box" style="padding-left: 10px; margin-top:3px;"><img class="author" src="https://github.com/{{post.author}}.png" style="width: 25px; height: 25px; margin:0; margin-right:5px"><span style="font-size: 0.8rem;">{{post.author}}</span>
+    <time class="date" datetime="{{ post.date | date_to_xmlschema }}" style="font-size:0.8rem;">{{ post.date | date: "%B %-d, %Y" }}</time>
+  </div>
 </article>
 {% endfor %}
 
